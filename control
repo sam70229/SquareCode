@@ -1,0 +1,9 @@
+Package: com.yourcompany.squarecode
+Name: SquareCode
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.2.2
+Architecture: iphoneos-arm
+Description: Change the corner radius of the passcode button. 
+Maintainer: SamYang
+Author: SamYang
+Section: Tweaks
